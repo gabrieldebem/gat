@@ -1,4 +1,4 @@
-## Command `gat` or `cat`
+# gat
 
 `gat` is a command line like `cat` but written in Go.
 
